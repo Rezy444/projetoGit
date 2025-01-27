@@ -1,0 +1,1 @@
+Esse projeto não ensina a usar o git
